@@ -1,6 +1,6 @@
 Proje 1 | Insertion Sort
 
-# Time Complexity: O(N^2)
+## Time Complexity: O(N^2)
 ### [22,27,16,2,18,6] için 18 sayısı en son sıralarda bulunduğu için Average Case ile Worst Case arasında olur.
 
 ## [22,27,16,2,18,6] aşamalar(küçükten büyüğe):
