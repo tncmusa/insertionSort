@@ -1,5 +1,7 @@
 Proje 1 | Insertion Sort
 
+www.patika.dev
+
 ## Time Complexity: O(N^2)
 ### [22,27,16,2,18,6] için 18 sayısı en son sıralarda bulunduğu için Average Case ile Worst Case arasında olur.
 
